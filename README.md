@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mytaga
+- 👋 Hi, I’m Mytaga
 - 👀 I’m interested in learning new technologies and frameworks and improving my current skills
 - 🌱 I’m currently learning ASP.NET CORE 6.0
 - 💞️ I’m looking to collaborate on different projects
