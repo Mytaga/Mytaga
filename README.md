@@ -10,7 +10,7 @@
 - 👉 💻 https://www.hackerrank.com/Mytag
 
   🛠️ Languages and Tools :
-  C# .NET JavaScript  HTML  CSS 
+  C#  .NET  SQL JavaScript  HTML  CSS 
   
 <!---
 Mytaga/Mytaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
