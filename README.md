@@ -9,7 +9,7 @@
 - 👉 💻 https://www.codewars.com/users/Mytaga 
 - 👉 💻 https://www.hackerrank.com/Mytag
 
-  🛠️ Languages and Tools :
+  🛠️ Languages:
   
 ![image](https://user-images.githubusercontent.com/86414839/212763943-4660fcb5-5f0c-4477-b356-4f0e541f4743.png) 
 ![image](https://user-images.githubusercontent.com/86414839/212764335-97fb7a19-43d4-425c-82f3-000acdd42298.png)
