@@ -9,8 +9,10 @@
 - 👉 💻 https://www.codewars.com/users/Mytaga 
 - 👉 💻 https://www.hackerrank.com/Mytag
 
-🛠️ Languages and Tools :
-C# .NET JavaScript  HTML  CSS 
+  🛠️ Languages and Tools :
+  C# .NET JavaScript  HTML  CSS 
+  ![image](https://user-images.githubusercontent.com/86414839/212763280-6f48d8d0-c949-4cf0-8b5c-ec311ee1cd35.png)
+
 <!---
 Mytaga/Mytaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
