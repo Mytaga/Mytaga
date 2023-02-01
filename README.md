@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mytaga
 - 👀 I’m interested in learning new technologies & frameworks and improving my current skills
 - 🌱 I’m currently learning ASP.NET CORE 6.0 § CSS 
+- 🔨 I'm currently working on Winter Is Coming Api Project
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me : 
 - 👉 📱 0898 56 47 75 
