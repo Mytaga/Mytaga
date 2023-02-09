@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mytaga
+- 👋 Hi, I’m Dimitar Kralev
 - 👀 I’m interested in learning new technologies & frameworks and improving my current skills
 - 🌱 I’m currently learning ASP.NET CORE 6.0 § CSS 
 - 🔨 I'm currently working on Winter Is Coming Api Project
