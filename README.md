@@ -10,14 +10,9 @@
 - 👉 💻 https://www.codewars.com/users/Mytaga 
 - 👉 💻 https://www.hackerrank.com/Mytag
 
+  <br />
 
-  🛠️ Languages:
-  
-  ![image](https://user-images.githubusercontent.com/86414839/212763943-4660fcb5-5f0c-4477-b356-4f0e541f4743.png) 
-  ![image](https://user-images.githubusercontent.com/86414839/212764335-97fb7a19-43d4-425c-82f3-000acdd42298.png)
-  ![image](https://user-images.githubusercontent.com/86414839/212764481-37a15384-b03e-4d55-87a0-fa07617976be.png)
-  ![image](https://user-images.githubusercontent.com/86414839/212764398-2fbc1e57-ab7f-4e21-8e45-90312becbf20.png)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytaga)](https://github.com/Mytaga/github-readme-stats)
 
 <!---
 Mytaga/Mytaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
