@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimitar Kralev 
 - 👀 I’m interested in learning new technologies & frameworks and improving my current skills
-- 🌱 I’m currently learning ASP.NET CORE 6.0 WEB API § CSS 
+- 🌱 I’m currently learning ASP.NET CORE 6.0 WEB API && React && CSS 
 - 🔨 I'm currently working on Winter Is Coming - WEB API Project
 - 💞️ I’m looking forward to landing my first job as a Junior .NET Developer and collaborate on different projects
 - 📫 How to reach me : 
