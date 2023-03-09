@@ -13,7 +13,7 @@
  
  ## **Tech Stack:**
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,react,js)](https://skillicons.dev)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytaga&layout=compact)](https://github.com/Mytaga/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mytaga)](https://github.com/Mytaga/github-readme-stats)
