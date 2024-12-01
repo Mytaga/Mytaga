@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Dimitar Kralev 
 - 👀 I’m interested in learning new technologies & frameworks and improving my current skills
-- 🌱 I’m currently learning ASP.NET CORE 6.0 WEB API && React && T24 && jBASE
-- 🔨 I'm currently working on Budgy - WEB API Project with React front-end part
-- 💞️ I’m looking forward to landing my a job as a Junior .NET Developer and collaborate on different projects
 - 📫 How to reach me : 
 - 👉 📱 0898 56 47 75 
 - 👉 ✉ mitko.kralev@abv.bg 
